@@ -1,5 +1,5 @@
 {
-  "name": "karet",
+  "name": "@hwifrk/karet",
   "version": "5.0.0",
   "description": "Karet is a library that allows you to embed Kefir properties into React VDOM",
   "module": "dist/karet.es.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calmm-js/karet.git"
+    "url": "git+https://github.com/hwifrk/karet-frk.git"
   },
   "keywords": [
     "incremental",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/calmm-js/karet/issues"
   },
-  "homepage": "https://github.com/calmm-js/karet#readme",
+  "homepage": "https://github.com/hwifrk/karet-frk#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.1",
